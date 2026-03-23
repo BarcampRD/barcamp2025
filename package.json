@@ -12,7 +12,7 @@
 	},
 	"dependencies": {
 		"@fontsource-variable/raleway": "5.2.8",
-		"@tailwindcss/vite": "4.1.13",
+		"@tailwindcss/vite": "4.2.2",
 		"astro": "5.13.10",
 		"tailwindcss": "4.1.13"
 	},
