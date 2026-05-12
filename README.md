@@ -1,5 +1,7 @@
 # Astro Starter Kit: Minimal
 
+Jostin Beato 10150326
+
 ```sh
 pnpm create astro@latest -- --template minimal
 ```
